@@ -1,0 +1,16 @@
+{
+  "name": "bun-pty-ex",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^22.15.21"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "bun-pty": "^0.3.1"
+  }
+}
